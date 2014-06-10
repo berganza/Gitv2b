@@ -1,1 +1,4 @@
 un nuevo fichero
+
+Línea 1
+
